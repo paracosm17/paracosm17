@@ -1,5 +1,5 @@
 # Hi there, I'm [Alex](https://paracosm17.ru/)👋
-### backend developer, devops engineer, sysadmin
+### backend, devops, software, sysadmin
 
 [![paracosm17's GitHub stats](https://github-readme-stats.vercel.app/api?username=paracosm17&show_icons=true&theme=tokyonight)](https://github.com/paracosm17/)  
 
